@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "this tailwind course",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "sourik",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}
